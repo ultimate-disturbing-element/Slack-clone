@@ -11,8 +11,8 @@ const Login = () => {
         <LoginContainer>
             <LoginInnerContainer>
                 <img src="https://cdn.mos.cms.futurecdn.net/SDDw7CnuoUGax6x9mTo7dd.jpg" alt=""/>
-                <h1>SignIn to  the Team preKode</h1>
-                <p>precode.slack.com</p>
+                <h1>SignIn to  the Team Code SpaceX</h1>
+                <p>codespaceXe.slack.com</p>
 
                 <Button onClick={signIn}>
                     SignIn with Google
