@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "slack-clonereact",
     "public": "build",
     "ignore": [
       "firebase.json",
